@@ -13,7 +13,7 @@ The target was to build a comparative cheatsheet of python libraries, classified
     <ul>
     <li>Describe & Subset
     <li>Filter & Clean
-    <li>Impute(numerical, categorical, dates & text)
+    <li>Impute (numerical, categorical) & Text mining (dates & text)
     <li>Summarize & visualize</li></ul>
   <li>Preprocessing for machine learning :
     <ul>

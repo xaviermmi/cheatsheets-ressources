@@ -6,25 +6,27 @@ The files "Ultimate_cheatsheet_01_sql-seaborn-pandas.pdf" and "Ultimate_cheatshe
 Those cheatsheets are not aimed to be exhaustive but they summarize usefull code snippets to help extract, load and transform data, then build machine learning models.<br>
 The target was to build a comparative cheatsheet of python libraries, classified on each big step of a (small) datascience project :
 <ol>
-  <li>Get the Data : <code>Import</code>
+  <li>Get the Data :
+    <ul>
+    <li>Import<li></ul>
   <li>Exploratory Data Analysis : 
-  <ul>
-    <li><code>Describe & Subset</code>
+    <ul>
+    <li>Describe & Subset
     <li>Filter & Clean
     <li>Impute(numerical, categorical, dates & text)
     <li>Summarize & visualize</li></ul>
   <li>Preprocessing for machine learning :
-  <ul>
+    <ul>
     <li>Scale
     <li>Reshape & Combine
     <li>Feature engineering : Customize & Transform</li></ul>
-  <li>Build & evaluate models :
-  <ul>
+  <li>Model building & evaluation :
+    <ul>
     <li>Build model (supervised, ensemble models, boosting algos)
     <li>Fit & predict
     <li>Evaluate model (supervised & unsupervised)</li></ul>
-  <li>Fine-tuning :
-  <ul>
+  <li>Model fine-tuning :
+    <ul>
     <li>Fine-tune model</li></ul>
 </ol>
 The following languages and libraries are covered :

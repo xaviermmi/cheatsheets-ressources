@@ -8,7 +8,7 @@ The target was to build a comparative cheatsheet of python libraries, classified
 <ol>
   <li>Get the Data :
     <ul>
-    <li>Import<li></ul>
+    <li>Import</li></ul>
   <li>Exploratory Data Analysis : 
     <ul>
     <li>Describe & Subset

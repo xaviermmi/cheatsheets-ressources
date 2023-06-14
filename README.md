@@ -6,7 +6,10 @@ Some ressources to improve your data literacy and some cheatsheets to help codin
 ### "Ultimate_cheatsheet_01_sql-seaborn-pandas.pdf" & "Ultimate_cheatsheet_02_numpy-scipy-scikitlearn.pdf"
 The 2 files are working together.<br>
 Though not exhaustive, those CS summarize usefull code snippets to help for ELT and machine learning coding (mostly in python).<br>
-<p>Aim is to build a parallel between standard datascience python libraries, classifiying chronologically (or almost...) each big step of a datascience project :
+<p>Aim is to set a parallel between :
+  <li>standard datascience python libraries, classifiying chronologically (or almost...) each big step of a datascience project
+  <li>usefull standard plotting library (seaborn) functions for each step of said-project</li></p>
+Proposed steps are as follow :
 <ol>
   <li>Get the Data :
     <ul>

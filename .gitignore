@@ -1,3 +1,35 @@
+# TEMPORARY_CUSTOM
+
+# large files
+#tbd
+
+# unprepared folders
+#tbd
+
+# uncompleted files
+#tbd
+
+# deprecated files
+#tbd : myfile.ipynb
+
+
+# PERMANENT_CUSTOM
+
+## private files
+#tbd
+
+## IDEs config
+.vscode/
+
+## custom style sheets and utils
+#tbd
+
+## todo files
+todo.txt
+
+
+# PERMANENT_PYTEMPLATE
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
